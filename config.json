@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseserify",
+        "uuid": 551356,
+        "checksum": "mno8vw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
